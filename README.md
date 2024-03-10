@@ -23,9 +23,7 @@ Finally, check that Python is in PATH by opening Terminal and typing the command
 To run Singular from the Terminal, the application can be downloaded from
 https://www.singular.uni-kl.de/index.php/singular-download.html
 
-The numerical analysis in Section 4.1 was performed on data generated using the files labelled as StabilityOriginalParameters.mlx and StabilityRandomParameters.mlx respectively while the MATLAB script Chol_Input_Tiled.m generated the Figures 4a - 4d.
+The numerical analysis in Section 4.1 was performed by implementing the MATLAB script RPAinRetina.m to generate Figure 5.
 
-
-To run the code listings for analysing RPA in the cholesterol concentration of the ER (Ce), plasma membrane (Cp), the free cholesterol (Cf) and esterified cholesterol in Jupyterlab, copy and pate the code listings provided in the SingularRPA_Ce.pdf, SingularRPA_Cp.pdf, Singular_Cf.pdf and Singular_E.pdf files respectively.
-
+To run the code listings for analysing RPAinRetina in Jupyterlab, copy and paste the code RPAinRetina.txt as provided. 
 For any further questions, please contact ronel.scheepers@hdr.qut.edu.au
